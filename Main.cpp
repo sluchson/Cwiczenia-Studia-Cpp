@@ -52,10 +52,10 @@ int main() {
     trzy.Wpisz();
     trzy.Wypisz();
 
-    delete druga; // Zwolnienie dynamicznie alokowanej pamiêci*/
+    delete druga; // Zwolnienie dynamiczni alokowanej pamiêci*/
 
-
-    /*Data data1(11, "listopad", 1111);
+    /*
+    Data data1(11, "listopad", 1111);
     Data data2;
 
     cout << "Wprowadz nowa date: " << endl;
